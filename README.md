@@ -6,7 +6,7 @@
 
 * REQ_3: After the player's first 2 dice have been rolled, the player should be prompted whether they want to roll again. It should be displayed in the following format "Roll again? Y/N: ".
 
-* REQ_5: Given the roll again prompt is displayed, when the player enters any string beginning with y (not case sensitive), then 2 dice should be rolled again and the total added to the previous total and displayed to the console.
+* REQ_4: Given the roll again prompt is displayed, when the player enters any string beginning with y (not case sensitive), then 2 dice should be rolled again and the total added to the previous total and displayed to the console.
 
 * REQ_5: Given the roll again prompt is displayed, when the player enters any string beginning with n (not case sensitive), then no more dice shall be rolled and the total for the first 2 dice should be displayed to the console.
 
