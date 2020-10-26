@@ -1,6 +1,6 @@
 package nz.ac.eit.blackjack;
 
-public class Player
+public abstract class Player
 {
     protected int score = 0;
     protected Dice dice1 = new Dice();
