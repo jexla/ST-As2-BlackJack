@@ -1,4 +1,4 @@
-# Software Testing - Stefan Grace - Assignment 2 - Blackjack
+# Software Testing - Dylan Williams - Assignment 2 - Blackjack
 
 * REQ_1: When the program starts, the message “Welcome to Blackjack!” should be displayed to the console. 
 
